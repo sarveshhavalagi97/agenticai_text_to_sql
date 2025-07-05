@@ -1,0 +1,28 @@
+# Core AI/ML Components
+groq==0.9.0  # Official Groq API client
+agno==1.2.1  # Agentic AI framework
+langchain==0.1.16  # For advanced NLP pipelines
+datasets==2.18.0  # HuggingFace datasets (for fine-tuning)
+
+# Data Processing
+pandas==2.2.1  # Data manipulation
+pypdf==4.2.0  # PDF processing (for document ingestion)
+
+# Database & ORM
+mysql-connector-python==8.3.0  # Secure MySQL connector
+SQLAlchemy==2.0.29  # SQL toolkit
+pydantic==2.6.4  # Data validation
+
+# Security & Config
+python-dotenv==1.0.1  # Environment management
+cryptography==42.0.5  # Encryption/decryption
+mypy-extensions==1.0.0  # Type checking
+
+# UI & Chat
+streamlit==1.33.0  # Web interface
+streamlit-chat==0.1.2  # Chat UI components
+
+# Development & Testing
+black==24.3.0  # Code formatting
+mypy==1.8.0  # Static type checking
+pytest==8.0.2  # Unit testing
