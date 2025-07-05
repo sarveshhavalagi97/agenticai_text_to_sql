@@ -12,7 +12,7 @@ if "messages" not in st.session_state:
 # Database config for insurance policy management
 DB_CONFIG = {
     "host": "insurance-db.example.com",
-    "port": 3306,
+    "port": "",
     "user": "policy_admin",
     "password": "secure_insurance_db_pass",
     "database": "policy_management"
